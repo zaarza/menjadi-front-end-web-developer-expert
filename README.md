@@ -32,19 +32,20 @@ This is submission for Dicoding course "Menjadi Front-End Web Developer Expert"
 
 ### Features
 
-- Create new note
-- Show all note
-- Show detail note
-- Archive & unarchive note
-- Toggle dark mode
-- Toggle language (English & Bahasa Indonesia)
+- Show all restaurants
+- Show detail restaurant
+- Add restaurant to favorite list & remove restaurant from favorite list
+- Progressive web apps (offline mode, install app)
 
 ### Framework / Library / Tools used
 
-- React
-- React Router Dom
-- TailwindCSS
-- Eslint
+- HTML
+- CSS
+- Webpack
+- Service worker
+- Karma test runner
+- Jasmine test framework
+- etc
 
 ### Useful Resources
 
